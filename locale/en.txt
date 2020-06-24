@@ -16,7 +16,7 @@ Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Location
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
 Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = Floorplan
 Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = Photoalbum
-Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Start
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Start Game
 Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Contact Information
 
 ### Multiline Text
@@ -42,4 +42,5 @@ panorama_EBCCD887_E00F_FF78_41E3_080991A2C4AF.label = entrance
 ## Action
 
 ### URL
+LinkBehaviour_C420BDCC_E033_9088_41D0_16AEC73C36B9.source = https://shop.woodigital360.co.uk/virtual-tour-360/shop
 LinkBehaviour_C8A31430_DA1B_B27F_41C4_AEDEDA2D81B6.source = http://localhost:4200/account/login
