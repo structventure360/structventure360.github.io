@@ -1,7 +1,7 @@
 {
- "name": "Official1",
+ "name": "VisitMalaysia360",
  "background_color": "#FFFFFF",
- "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +39,6 @@
    "src": "misc/icon16.png"
   }
  ],
- "display": "fullscreen",
- "theme_color": "#FFFFFF"
+ "start_url": "index.htm",
+ "display": "fullscreen"
 }
